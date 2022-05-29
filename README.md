@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ishika
+- 👋 Hi, I’m Ishika
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning SQL, MS excel and data visualization tools
 - 💞️ I’m looking to collaborate on LinkedIn or GitHub 
